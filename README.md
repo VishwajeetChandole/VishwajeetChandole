@@ -44,5 +44,5 @@
 
 ---
 
-<p align="center">Thanks for visiting my profile 🙏  
+<p align="center">Thanks for visiting my profile 🙏 <br> 
 Learning in public. Open to collaboration and feedback 🤝</p>
