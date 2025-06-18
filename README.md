@@ -7,7 +7,7 @@
 - 🌱 Learning Full Stack Development, AI tools, and modern web technologies  
 - 🧰 Working with technologies like Python, Flask, JavaScript, React, and MongoDB  
 - 🛠️ Building hands-on projects to strengthen problem-solving and development skills  
-- 📫 Reach me at: **vishwajeetchandole@email.com** | [LinkedIn](https://linkedin.com/in/vishwajeetchandole)
+- 📫 Reach me at: **chandolevishwajeet@email.com** | [LinkedIn](https://linkedin.com/in/vishwajeetchandole)
 
 ---
 
