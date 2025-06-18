@@ -1,7 +1,7 @@
-<!-- BANNER -->
+<!-- BANNER 
 <p align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%"/>
-</p>
+</p> -->
 
 <!-- TYPING ANIMATION HEADER -->
 <h1 align="center">
