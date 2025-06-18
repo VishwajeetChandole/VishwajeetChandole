@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishwajeet Chandole</h1>
+<h3 align="center">Computer Engineering Student | Exploring Full Stack & AI Technologies</h3>
 
-<!--
-**VishwajeetChandole/VishwajeetChandole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 📘 Currently pursuing Computer Engineering with a focus on software development  
+- 🌱 Learning Full Stack Development, AI tools, and modern web technologies  
+- 🧰 Working with technologies like Python, Flask, JavaScript, React, and MongoDB  
+- 🛠️ Building hands-on projects to strengthen problem-solving and development skills  
+- 📫 Reach me at: **vishwajeetchandole@email.com** | [LinkedIn](https://linkedin.com/in/vishwajeetchandole)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
+---
+
+### 📊 GitHub Stats
+
+![Vishwajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwajeetChandole&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetChandole&layout=compact&theme=radical)
+
+---
+
+### 📌 Projects
+
+- 🔹 [Portfolio Website](https://github.com/VishwajeetChandole/portfolio) – A responsive personal website built with HTML, CSS, and JavaScript  
+- 🔹 [Mini Projects](https://github.com/VishwajeetChandole?tab=repositories) – Practice projects and learning experiments
+
+---
+
+### 💬 Quote I live by
+
+> *“First, solve the problem. Then, write the code.”* – John Johnson
+
+---
+
+<p align="center">Thanks for visiting my profile 🙏  
+Learning in public. Open to collaboration and feedback 🤝</p>
